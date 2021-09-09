@@ -1,1 +1,1 @@
-# bddailyreminder.github.info
+# bddailyreminder.github.io
